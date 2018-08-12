@@ -1,12 +1,10 @@
 # Pixel-Explosion
-
-
-
-
+Program that manages virtual particles, demonstrates pixel access using SDL development library.
 
 # Requirement
 
 You need C++ compiler, and SDL download available here https://www.libsdl.org/download-2.0.php
+# Install
 
 # Author
 Brandon Espinal
