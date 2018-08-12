@@ -8,11 +8,11 @@ SDL download available here https://www.libsdl.org/download-2.0.php.
 Place the SDL download file in a place you can access later.
 # Install
 
--Clone or download the souce and header files from the Pixel Explosion file. 
--Create a new C++ project in the IDE of your choice
--Add the source and header files to your project
--From the SDL download you need to copy and place the SDL2.dll file from the lib folder then either the x64 bit or the x86 folder in the same folder as your .cpp files.
--In your IDE you need to change your project settings to give it access to the SDL2 include files and the libraries. To do this there should be an indlude additional directories setting add the path to the include file in the SDL2 folder. Then add the lib path to the Additional Library Directories setting. Finally you need to add SDL2.lib and SDL2main.lib to Additional Dependencies input.
+- Clone or download the souce and header files from the Pixel Explosion file. 
+- Create a new C++ project in the IDE of your choice
+- Add the source and header files to your project
+- From the SDL download you need to copy and place the SDL2.dll file from the lib folder then either the x64 bit or the x86 folder in the same folder as your .cpp files.
+- In your IDE you need to change your project settings to give it access to the SDL2 include files and the libraries. To do this there should be an indlude additional directories setting add the path to the include file in the SDL2 folder. Then add the lib path to the Additional Library Directories setting. Finally you need to add SDL2.lib and SDL2main.lib to Additional Dependencies input.
 
 # Author
 Brandon Espinal
